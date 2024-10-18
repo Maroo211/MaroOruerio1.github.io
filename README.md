@@ -1,6 +1,6 @@
 # MaroOruerio1.github.io
 
-# Mechanical engineering anf Graduate Student 
+# Mechanical engineering and Graduate Student 
 
 ## Education
 ### Rice University- Masters
@@ -10,6 +10,6 @@
 ** Mechanical Engineering 
 
 ## Professional Experience 
-### Mortenson Construction company
+### Mortenson Construction Company
 - Help project managers **10%**
 - 
